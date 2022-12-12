@@ -1,3 +1,6 @@
 [submodule "article_service"]
 	path = article_service
 	url = https://github.com/Akhmad-S/article_service.git
+[submodule "api_gateway"]
+	path = api_gateway
+	url = https://github.com/Akhmad-S/api_gateway.git
